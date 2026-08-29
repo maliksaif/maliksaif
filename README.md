@@ -7,7 +7,7 @@
 
 ## 🧠 About Me
 
-With over **6 years of professional software engineering experience**, I build modern, scalable applications across **fintech, retail, enterprise, IoT, POS, and e-commerce**.
+With over **9 years of professional software engineering experience**, I build modern, scalable applications across **fintech, retail, enterprise, IoT, POS, and e-commerce**.
 
 While **Android/Kotlin** is one of my strongest areas, my experience extends across the entire application ecosystem — including **iOS, React Native, Flutter, backend development, cloud services, enterprise authentication, wearable applications, and hardware integrations**.
 
