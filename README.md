@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="receipt.svg" width="380" alt="Order receipt: what you get when you hire Saif">
+  <img src="receipt-v2.svg" width="380" alt="Order receipt: what you get when you hire Saif">
 </p>
 
 <p align="center">
