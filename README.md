@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="card.svg" width="520" alt="Saif wallet card: 9+ years balance, no expiry">
-</p>
-
-<p align="center">
   <img src="receipt.svg" width="380" alt="Order receipt: what you get when you hire Saif">
 </p>
 
